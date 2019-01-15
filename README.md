@@ -1,1 +1,1 @@
-# git_package
+Git Composer-based Package
